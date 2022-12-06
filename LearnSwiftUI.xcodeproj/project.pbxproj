@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		94866241293F738200AC0813 /* DelcarativeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94866240293F738200AC0813 /* DelcarativeTest.swift */; };
 		94E85FA32912B5BF0093F035 /* LearnSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E85FA22912B5BF0093F035 /* LearnSwiftUIApp.swift */; };
 		94E85FA52912B5BF0093F035 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E85FA42912B5BF0093F035 /* ContentView.swift */; };
 		94E85FA72912B5C10093F035 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94E85FA62912B5C10093F035 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		94866240293F738200AC0813 /* DelcarativeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelcarativeTest.swift; sourceTree = "<group>"; };
 		94E85F9F2912B5BF0093F035 /* LearnSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94E85FA22912B5BF0093F035 /* LearnSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnSwiftUIApp.swift; sourceTree = "<group>"; };
 		94E85FA42912B5BF0093F035 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				94E85FA22912B5BF0093F035 /* LearnSwiftUIApp.swift */,
 				94E85FA42912B5BF0093F035 /* ContentView.swift */,
 				94E85FB02912B62A0093F035 /* FittingImage.swift */,
+				94866240293F738200AC0813 /* DelcarativeTest.swift */,
 				94E85FA62912B5C10093F035 /* Assets.xcassets */,
 				94E85FA82912B5C10093F035 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94866241293F738200AC0813 /* DelcarativeTest.swift in Sources */,
 				94E85FA52912B5BF0093F035 /* ContentView.swift in Sources */,
 				94E85FB12912B62B0093F035 /* FittingImage.swift in Sources */,
 				94E85FA32912B5BF0093F035 /* LearnSwiftUIApp.swift in Sources */,
